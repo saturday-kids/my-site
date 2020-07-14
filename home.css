@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+
+}
+
+.header {
+    background-color: #FCD751;
+    width: 100%;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.bio-box {
+    background-color: #030042;
+    height: 400px;
+    float: left;
+    width: 70%;
+}
+
+.bio-pic {
+    float: right;
+    width: 30%;
+    height: 400px;
+}
+
+.bio {
+    color: white;
+    padding: 50px 50px 50px 50px;
+    font-size: 20px;
+    line-height: 40px;
+
+}
+
+.mail-icon {
+    width: 50px;
+    margin: 20px 0px 0px 0px;
+}
